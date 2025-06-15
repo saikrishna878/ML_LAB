@@ -21,7 +21,7 @@ WEEK5:
 https://github.com/saikrishna878/ML_LAB/blob/main/week5/Decision%20Tree.ipynb
 
 WEEK6:
-
+https://github.com/saikrishna878/ML_LAB/blob/main/week6/knn.ipynb
 
 WEEK7:
 
