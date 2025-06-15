@@ -24,7 +24,7 @@ WEEK6:
 https://github.com/saikrishna878/ML_LAB/blob/main/week6/knn.ipynb
 
 WEEK7:
-
+https://github.com/saikrishna878/ML_LAB/blob/main/week7/navie_bayes.ipynb
 
 WEEK8:
 
