@@ -8,6 +8,7 @@ WEEK1:
 https://github.com/saikrishna878/ML_LAB/blob/main/week1/datawrangling.ipynb
 
 WEEK2:
+https://github.com/saikrishna878/ML_LAB/blob/main/week2/datapreprocessing.ipynb
 
 
 WEEK3:
