@@ -30,4 +30,6 @@ WEEK8:
 https://github.com/saikrishna878/ML_LAB/blob/main/week8/svm.ipynb
 
 WEEK9:
-https://github.com/saikrishna878/ML_LAB/blob/main/week9/kmeans.ipy
+https://github.com/saikrishna878/ML_LAB/blob/main/week9/kmeans.ipynb
+
+https://github.com/saikrishna878/ML_LAB/blob/main/week9/kmeans_example.ipynb
