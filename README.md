@@ -12,7 +12,7 @@ https://github.com/saikrishna878/ML_LAB/blob/main/week2/datapreprocessing.ipynb
 
 
 WEEK3:
-
+https://github.com/saikrishna878/ML_LAB/blob/main/week3/simple_linear_regression.ipynb
 
 WEEK4:
 
